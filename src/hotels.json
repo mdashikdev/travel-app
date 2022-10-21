@@ -1,0 +1,82 @@
+[{
+    "id": 1,
+    "hotelName":"Best Western Heritage",
+    "touristSpot":"Cox's Bazar",
+    "image": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/222719205.jpg?k=40275b78bffd03e6f18007f05431bb65d8da93f8c01f254a4c6d28ff034c0271&o=&hp=1"
+  }, {
+    "id": 2,
+    "hotelName":"Sea Pearl Beach Resort & Spa",
+    "touristSpot":"Cox's Bazar",
+    "image": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/345053324.jpg?k=be9e4c63abaa59ca9dae9284911bfc36f3d23188a0e6e25cdba77d77925e130d&o=&hp=1"
+  }, {
+    "id": 3,
+    "hotelName":"Hotel Sea World Cox's Bazar",
+    "touristSpot":"Cox's Bazar",
+    "image": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/371373503.jpg?k=c64473ea44474edcec082846e37c95dfde379e574083195a2e09ab63d29df6f0&o=&hp=1"
+  }, {
+    "id": 4,
+    "hotelName":"Coco Bodu Hithi",
+    "touristSpot":"Maldives",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/1c/42/a8/photo5jpg.jpg?w=1200&h=-1&s=1"
+  }, {
+    "id": 5,
+    "hotelName":"Vilamendhoo Island Resort & Spa",
+    "touristSpot":"Maldives",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/82/d7/fa/bonthi-bar-deck.jpg?w=1200&h=-1&s=1"
+  }, {
+    "id": 6,
+    "hotelName":"SAii Lagoon Maldives, Curio Collection by Hilton",
+    "touristSpot":"Maldives",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/83/b9/a6/exterior.jpg?w=1100&h=-1&s=1"
+  }, {
+    "id": 7,
+    "hotelName":"Hotel de Londres Eiffel",
+    "touristSpot":"The Eiffel Tower",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/06/b8/cc/hotel-de-londres-eiffel.jpg?w=1200&h=-1&s=1"
+  }, {
+    "id": 8,
+    "hotelName":"Shangri-La Paris",
+    "touristSpot":"The Eiffel Tower",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/be/96/a5/shangri-la-hotel-paris.jpg?w=1200&h=-1&s=1"
+  }, {
+    "id": 9,
+    "hotelName":"Hotel Relais Bosquet Paris",
+    "touristSpot":"The Eiffel Tower",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/af/5e/d8/guest-room.jpg?w=800&h=-1&s=1"
+  }, {
+    "id": 10,
+    "hotelName":"QuodLibet",
+    "touristSpot":"Colosseum",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/7b/d9/9c/quodlibet.jpg?w=1200&h=-1&s=1"
+  }, {
+    "id": 11,
+    "hotelName":"Hotel Artemide",
+    "touristSpot":"Colosseum",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/5a/2e/9e/exterior.jpg?w=1200&h=-1&s=1"
+  }, {
+    "id": 12,
+    "hotelName":"NH Collection Roma Fori Imperiali",
+    "touristSpot":"Colosseum",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/1c/31/69/f-nh-collection-fori.jpg?w=300&h=300&s=1"
+  }, {
+    "id": 13,
+    "hotelName":"Tierra Viva Machu Picchu Hotel",
+    "touristSpot":"Machu Picchu",
+    "image": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/295717650.jpg?k=83d7e722342107e1b28a033386acc7717e73faa4c9aeeb360438a8ca1cd81cff&o=&hp=1"
+  }, {
+    "id": 14,
+    "hotelName":"Hotel Machupicchu Inn",
+    "touristSpot":"Machu Picchu",
+    "image": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/290692151.jpg?k=8cc579517b6010e582b9e3b726a6206dcf4712be780b546bae5b40f78ad4e60b&o=&hp=1"
+  }, {
+    "id": 15,
+    "hotelName":"Inkas Land",
+    "touristSpot":"Machu Picchu",
+    "image": "https://t-cf.bstatic.com/xdata/images/hotel/max1024x768/349748423.jpg?k=de419e83d0edd8ed3d8ebd1e2df2978c874f884cbb631a8abbc3495810d1867f&o=&hp=1"
+  }
+
+
+
+
+
+]

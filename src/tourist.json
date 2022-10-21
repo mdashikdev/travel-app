@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "spotName": "Cox's Bazar",
+    "location": 140.8817471,
+    "contact": "330-608-0022",
+    "description":"Cox's Bazar is located 150 km (93 mi) south of the divisional headquarter city of Chittagong. Cox's Bazar town has an area of 6.85 km2 (2.64 sq mi), and is bounded by Bakkhali River on the north and East, Bay of Bengal in the West, and Jhilwanj Union in the south.[16]The beach in Cox's Bazar has a gentle slope and with an unbroken length of 155 km (96 mi) it is often termed the longest natural unbroken sea beach in the world.",
+    "address": "Dhaka,Bangladesh",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Cox%27s_Bazaar_Sunset_Sep2019.jpg/1280px-Cox%27s_Bazaar_Sunset_Sep2019.jpg"
+  }, {
+    "id": 2,
+    "spotName": "Maldives",
+    "location": 114.9042208,
+    "contact": "533-167-2379",
+    "description":"The Maldives have a range of different habitats including deep sea, shallow coast, and reef ecosystems, fringing mangroves, wetlands and dry land. There are 187 species of coral forming the coral reefs. This area of the Indian Ocean, alone, houses 1,100 species of fish, 5 species of sea turtle, 21 species of whale and dolphin, 400 species of mollusc, and 83 species of echinoderms. The area is also populated by a number of crustacean species: 120 copepods, 15 amphipods, as well as more than 145 crab and 48 shrimp species",
+    "address": "South Asia",
+    "image": "https://lnenortheastern.com/wp-content/uploads/2016/11/Maldives.jpg"
+  }, {
+    "id": 3,
+    "spotName": "The Eiffel Tower",
+    "location": 116.762907,
+    "contact": "500-533-0184",
+    "description":"The design of the Eiffel Tower is attributed to Maurice Koechlin and Émile Nouguier, two senior engineers working for the Compagnie des Établissements Eiffel. It was envisioned after discussion about a suitable centerpiece for the proposed 1889 Exposition Universelle, a world's fair to celebrate the centennial of the French Revolution.",
+    "address": "Paris, France",
+    "image": "https://th.bing.com/th/id/OIP.Sd6SawtBE9iEBEPlZHYFrwHaMV?pid=ImgDet&rs=1"
+  }, {
+    "id": 4,
+    "spotName": "Colosseum",
+    "location": 95.4515725,
+    "contact": "110-470-0473",
+    "description":"Originally, the building's Latin name was simply the Latin: amphitheatrum, lit. 'amphitheatre'.[9] Though the modern name Flavian Amphitheatre (Latin: Amphitheatrum Flavium) is often used, there is no evidence it was used in Classical Antiquity.[9] This name refers to the patronage of the Flavian dynasty, during whose reigns the building was constructed, but the structure is better known as the Colosseum.[9] In antiquity, Romans may have referred to the Colosseum by the unofficial name Amphitheatrum Caesareum (with Caesareum an adjective pertaining to the title Caesar), but this name may have been strictly poetic[10][11] as it was not exclusive to the Colosseum; Vespasian and Titus, builders of the Colosseum, also constructed a Flavian Amphitheatre in Puteoli (modern Pozzuoli).",
+    "address": "Rome,italy",
+    "image": "https://th.bing.com/th/id/OIP.hM7H3zIvF_wV62ciRcSUJwHaE8?pid=ImgDet&rs=1"
+  }, {
+    "id": 5,
+    "spotName": "Machu Picchu",
+    "location": 34.915084,
+    "contact": "739-438-9073",
+    "description":"In the Quechua language, machu means old or old person, while pikchu means either portion of coca being crunched or pyramid; pointed, multi-sided solid; cone. Thus the name of the site is sometimes interpreted as old mountain.The site is on a narrow saddle between two mountain peaks: Machu Picchu and Huayna Picchu.",
+    "address": "Sacred valley,Peru",
+    "image": "https://th.bing.com/th/id/R.95a73aeb68e9dc2717060874685984c1?rik=BTLSpT%2fOe01KjQ&riu=http%3a%2f%2fwww.smithcurryperu.com%2fuploads%2f4%2f6%2f6%2f2%2f46622147%2f1849833_orig.jpg&ehk=ixsjbNsjC1hn6enrOLufPLgRBuHVHorGtI8lf2YiRZk%3d&risl=&pid=ImgRaw&r=0"
+  }]
